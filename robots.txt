@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.vyronnutrition.com/sitemap.xml
+Sitemap: https://www.vyronpit.com/sitemap.xml
