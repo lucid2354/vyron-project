@@ -11,7 +11,7 @@
 - `og-preview.jpg` — превью для соцсетей (1200×630), лежит в корне, не в этом архиве
 
 ## Домен
-Адрес `https://www.vyronpit.com/` прописан в `index.html` (canonical, og:url, og:image, JSON-LD), `robots.txt` и `sitemap.xml`. Если домен изменится, поменять его во всех четырёх местах.
+Адрес `https://vyronpit.com/` прописан в `index.html` (canonical, og:url, og:image, JSON-LD), `robots.txt` и `sitemap.xml`. Если домен изменится, поменять его во всех четырёх местах.
 
 ## Новый язык
 В `script.js` скопировать объект `RU` в словаре `L`, перевести значения, добавить кнопку `<button data-l="xx">` в `index.html`.

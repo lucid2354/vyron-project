@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://www.vyronpit.com/sitemap.xml
+Sitemap: https://vyronpit.com/sitemap.xml
