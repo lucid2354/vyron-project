@@ -31,7 +31,6 @@ nav a:hover{color:var(--c)}
 .arrow:hover{background:var(--c);color:#000}
 .dots{display:flex;gap:10px;margin-left:8px}.dots button{width:38px;height:6px;border:0;background:var(--line);cursor:pointer;transform:skewX(-20deg)}
 .dots button[aria-current="true"]{background:var(--c);box-shadow:0 0 12px var(--c)}
-.jar{aspect-ratio:300/520}
 .tabs{display:flex;gap:12px;margin:30px 0 24px}
 .tabs button{padding:10px 24px;background:var(--panel);border:2px solid var(--line);color:var(--ink);font-size:22px;cursor:pointer;transform:skewX(-10deg)}
 .tabs button[aria-selected="true"]{border-color:var(--tc);color:var(--tc);box-shadow:0 0 20px color-mix(in srgb,var(--tc) 40%,transparent)}
